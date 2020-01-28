@@ -1,5 +1,6 @@
 describe("testing the portfolio site", () => {
     //test
+    //still a WOP
     beforeEach(() => {});
     it("has the right text", () => {
         cy.visit("https://adam-basila.surge.sh/#/");
